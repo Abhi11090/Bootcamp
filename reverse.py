@@ -1,2 +1,2 @@
-string="LetsUpgrade" [::-1]
+string="HelloWorld" [::-1]
 print(string)
